@@ -3,11 +3,13 @@
 
 1.git clone https://github.com/jsj1510/ToDoList.git
 
+2.생성된 폴더로 이동
 
-2.npm install
+
+3.npm install
 
 
-3.npm start
+4.npm start
 
 
 
